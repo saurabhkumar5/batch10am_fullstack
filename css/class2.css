@@ -1,0 +1,49 @@
+/* 
+h1{
+    background-color: chocolate ;
+}
+.momo{
+    background-color: yellow ;
+}
+#hola{
+    background-color: indigo !important;
+} */
+
+ /* div h1{
+    background-color: aqua;
+}
+ div .momo{
+    background-color: orchid;
+}
+body{
+    background-color: cadetblue;
+} */
+
+
+/* body {
+    background-color: rgb(31, 29, 29);
+  } */
+
+  h1{
+    color: red;
+    background-color: yellow;
+    text-align: center;
+    /* text-align: end; */
+    /* text-align: start; */
+
+    /* text-decoration: underline; */
+    /* text-decoration: line-through; */
+    /* text-decoration: overline; */
+
+
+  }
+
+  p{
+    /* letter-spacing: -2px; */
+    /* line-height: 5px; */
+  }
+
+  p{
+    /* font-weight: 900; */
+    /* font-size: 100px; */
+  }
